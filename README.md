@@ -1,6 +1,8 @@
 # Kyle Spicer
 
-Technical Director, Senior Software Developer, homelabber, and woodworker. More at [kspice.dev](https://kspice.dev).
+Technical Director, Senior Software Developer, homelabber, and woodworker. 
+
+More at [kspice.dev](https://kspice.dev).
 
 ## Projects
 
