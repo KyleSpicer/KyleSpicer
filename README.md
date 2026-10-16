@@ -10,6 +10,6 @@ More at [kspice.dev](https://kspice.dev).
 
 ## Other Repositories
 
-1. [**1-GitOps**](https://gitea.com/Kyle-Spicer/1-GitOps): source of truth for my homelab: Docker Compose stacks, runner configs, and VM setup.
-2. [**2-Templates**](https://gitea.com/Kyle-Spicer/2-Templates): shared formatting, linting, and tooling config for all projects.
+1. [**GitOps**](https://gitea.com/Kyle-Spicer/GitOps): source of truth for my homelab: Docker Compose stacks, runner configs, and VM setup.
+2. [**Templates**](https://gitea.com/Kyle-Spicer/Templates): shared formatting, linting, and tooling config for all projects.
 4. [**kspice.dev**](https://gitea.com/Kyle-Spicer/kspice.dev): my Astro portfolio and technical blog.
