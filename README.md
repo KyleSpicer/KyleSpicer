@@ -13,3 +13,5 @@ More at [kspice.dev](https://kspice.dev).
 1. [**GitOps**](https://github.com/KyleSpicer/GitOps): source of truth for my homelab: Docker Compose stacks, runner configs, and VM setup.
 2. [**Templates**](https://github.com/KyleSpicer/Templates): shared formatting, linting, and tooling config for all projects.
 3. [**kspice.dev**](https://github.com/KyleSpicer/kspice.dev): my Astro portfolio and technical blog.
+4. [**Rust**](https://github.com/KyleSpicer/Rust): Rust learning projects, starting with a command line argument parser.
+5. [**advent_of_code**](https://github.com/KyleSpicer/advent_of_code): my Advent of Code solutions, 2015 to 2025, mostly in Python.
