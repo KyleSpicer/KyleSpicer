@@ -1,6 +1,6 @@
 # Kyle Spicer
 
-Cyber Solutions Development (Hawaii) Technical Director, Senior Software Developer, homelabber, and woodworker. 
+Cyber Solutions Development (Hawaii) Technical Director, Senior Cyberspace Capabilities Developer (170D), homelabber, and woodworker. 
 
 More at [kspice.dev](https://kspice.dev).
 
