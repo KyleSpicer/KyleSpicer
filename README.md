@@ -6,7 +6,7 @@ More at [kspice.dev](https://kspice.dev).
 
 ## Projects
 
-1. [**SNAILNET**](https://github.com/KyleSpicer/SNAILNET): (version 1.0.0) a lightweight Win32 TCP proxy that injects configurable latency into a connection.
+1. [**SNAILNET**](https://github.com/KyleSpicer/SNAILNET): (v1.0.0) a lightweight Windows TCP proxy that injects configurable latency into a connection. Written in C.
 
 ## Other Repositories
 
