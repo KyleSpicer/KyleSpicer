@@ -19,6 +19,6 @@ Cyber Solutions Development (Hawaii) Technical Director, Senior Cyberspace Capab
 - [**Rust**](https://github.com/KyleSpicer/Rust): Rust learning projects, starting with a command line argument parser.
 - [**advent_of_code**](https://github.com/KyleSpicer/advent_of_code): my Advent of Code solutions, 2015 to 2025, mostly in Python.
 
-## This Site
+## My Blog
 
 - [**kspice.dev**](https://github.com/KyleSpicer/kspice.dev): my Astro portfolio and technical blog.
