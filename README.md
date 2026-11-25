@@ -6,7 +6,7 @@ Cyber Solutions Development (Hawaii) Technical Director, Senior Cyberspace Capab
 
 ## Tools
 
-- [**SnailNet**](https://github.com/KyleSpicer/SNAILNET) (v1.0.0): a lightweight Windows TCP proxy that injects configurable latency into a connection. Written in C.
+- [**SnailNet**](https://github.com/KyleSpicer/SNAILNET) (v1.0.0): a lightweight Windows TCP proxy that injects configurable latency into a connection. Written in C.  
   [Download](https://github.com/KyleSpicer/SNAILNET/releases) · [Write-up](https://kspice.dev/programming/tools/snailnet) · [Demo](https://youtu.be/Uz3TkmvdeTM)
 
 ## HomeLab & Infrastructure
